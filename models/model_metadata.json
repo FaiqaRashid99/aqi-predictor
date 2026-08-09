@@ -1,7 +1,7 @@
 {
   "best_model": "Random Forest",
-  "rmse": 6.6205,
-  "mae": 2.8741,
+  "rmse": 6.5978,
+  "mae": 2.8405,
   "r2": 0.0,
   "feature_cols": [
     "temp",
@@ -20,24 +20,24 @@
     "is_rush_hour",
     "aqi_change_rate"
   ],
-  "trained_at": "2026-08-08 04:02:53",
+  "trained_at": "2026-08-09 04:09:15",
   "all_results": [
     {
       "model": "Random Forest",
-      "rmse": 6.6205,
-      "mae": 2.8741,
+      "rmse": 6.5978,
+      "mae": 2.8405,
       "r2": 0.0
     },
     {
       "model": "Gradient Boosting",
-      "rmse": 9.2783,
-      "mae": 4.848,
+      "rmse": 8.7975,
+      "mae": 4.4867,
       "r2": 0.0
     },
     {
       "model": "Ridge Regression",
-      "rmse": 19.1849,
-      "mae": 15.5402,
+      "rmse": 19.4545,
+      "mae": 15.8982,
       "r2": 0.0
     }
   ]
